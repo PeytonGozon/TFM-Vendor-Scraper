@@ -1,0 +1,7 @@
+
+#email-body {
+    resize: vertical;
+    overflow: auto;
+    width: 75%;
+    min-height: 25%;
+}
